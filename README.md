@@ -1,10 +1,10 @@
 <div id="top"></div>
 <p align="center">
-  <img src="https://img.shields.io/github/contributors/imvast/ThisAPP-MassAccountCreator.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/imvast/ThisAPP-MassAccountCreator.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/imvast/ThisAPP-MassAccountCreator.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/issues/imvast/ThisAPP-MassAccountCreator.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/imvast/ThisAPP-MassAccountCreator.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/contributors/imvast/OGU-Name-Checker.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/forks/imvast/OGU-Name-Checker.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/stars/imvast/OGU-Name-Checker.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/issues/imvast/OGU-Name-Checker.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/github/license/imvast/OGU-Name-Checker.svg?style=for-the-badge"/>
 </p>
   
 ---------------------------------------
