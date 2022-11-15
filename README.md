@@ -33,14 +33,14 @@ Releasing soon...
 
 ### 🔥 Features
 * User friendly interface
-* Fast Speeds
+* Decent Speeds
 * Super Simple
 
 ---------------------------------------
 
 ### 🚀 Milestones
 * 5 Stars - Faster Speeds
-* 10 Stars - Async/Optimized
+* 10 Stars - Optimized GoLang Version
 * 20 Stars - Add Generator
 
 ---------------------------------------
