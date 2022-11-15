@@ -61,7 +61,7 @@ v0.0.0 ⋮ 11/15/2022
 ---------------------------------------
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/imvast/OGU-Name-Checker.svg?style=for-the-badge&color=ff69b4&logo=IOTA"/>
-  <img src="https://img.shields.io/github/stars/imvast/OGU-Name-Checker.svg?style=for-the-badge&color=ff69b4&logo=IOTA"/>
-  <img src="https://img.shields.io/github/languages/top/imvast/OGU-Name-Checker.svg?style=for-the-badge&color=ff69b4&logo=python"/>
+  <img src="https://img.shields.io/github/license/imvast/OGU-Name-Checker.svg?style=for-the-badge&color=f429ff&logo=IOTA"/>
+  <img src="https://img.shields.io/github/stars/imvast/OGU-Name-Checker.svg?style=for-the-badge&color=ff429ff&logo=IOTA"/>
+  <img src="https://img.shields.io/github/languages/top/imvast/OGU-Name-Checker.svg?style=for-the-badge&color=ff429ff&logo=python"/>
 </p>
