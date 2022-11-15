@@ -1,5 +1,4 @@
-Releasing soon...
-  
+
 <div align="center">
   <kbd>
   <a href="https://github.com/imvast/OGU-Name-Checker">
