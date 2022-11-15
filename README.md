@@ -41,7 +41,7 @@ Releasing soon...
 ### 🚀 Milestones
 * 5 Stars - Faster Speeds
 * 10 Stars - Async/Optimized
-* 20 Stars - 
+* 20 Stars - Add Generator
 
 ---------------------------------------
 
