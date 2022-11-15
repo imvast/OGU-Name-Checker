@@ -2,7 +2,7 @@
 <div align="center">
   <kbd>
   <a href="https://github.com/imvast/OGU-Name-Checker">
-    <img src="https://ogu.gg/favicon.ico" alt="Logo" width="250" height="250">
+    <img src="https://ogu.gg/images/ogusers/3.png" alt="Logo" width="250" height="150">
   </a>
   </kbd>
   
