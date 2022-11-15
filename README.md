@@ -1,18 +1,9 @@
-<div id="top"></div>
-<p align="center">
-  <img src="https://img.shields.io/github/contributors/imvast/OGU-Name-Checker.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/forks/imvast/OGU-Name-Checker.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/stars/imvast/OGU-Name-Checker.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/issues/imvast/OGU-Name-Checker.svg?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/imvast/OGU-Name-Checker.svg?style=for-the-badge"/>
-</p>
-  
----------------------------------------
+Releasing soon...
   
 <div align="center">
   <kbd>
   <a href="https://github.com/imvast/OGU-Name-Checker">
-    <img src="https://ogu.gg" alt="Logo" width="300" height="300">
+    <img src="https://ogu.gg" alt="Logo" width="250" height="250">
   </a>
   </kbd>
   
@@ -34,9 +25,9 @@
 
 ---------------------------------------
 
-### ⚙️ Setup
-> Run the main file
-+ `python3 main.py`
+### ⚙️ Installation
+* Requires: `Python 3.8+`
+* Start: `python main.py`
 
 ---------------------------------------
 
@@ -48,8 +39,8 @@
 ---------------------------------------
 
 ### 🚀 Milestones
-* 5 Stars - Async/Optimized
-* 10 Stars - 
+* 5 Stars - Faster Speeds
+* 10 Stars - Async/Optimized
 * 20 Stars - 
 
 ---------------------------------------
@@ -64,13 +55,14 @@
 ### 📜 ChangeLog
 
 ```diff
-v0.0.1 ⋮ 11/?/2022
+v0.0.0 ⋮ 11/15/2022
 - Releasing soon
 ```
 
 ---------------------------------------
----
 
-### * README CREDITS *
-This README was inspired by [@dropout1337](https://github.com/dropout1337) <3
-- [he dont care if i use it lol](https://cdn.discordapp.com/attachments/901999809404219444/901999816681324634/unknown.png)
+<p align="center">
+  <img src="https://img.shields.io/github/license/imvast/OGU-Name-Checker.svg?style=for-the-badge&logo=IOTA"/>
+  <img src="https://img.shields.io/github/stars/imvast/OGU-Name-Checker.svg?style=for-the-badge&logo=IOTA"/>
+  <img src="https://img.shields.io/github/languages/imvast/OGU-Name-Checker.svg?style=for-the-badge&logo=python"/>
+</p>
