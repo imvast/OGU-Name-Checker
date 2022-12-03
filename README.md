@@ -1,8 +1,11 @@
 
+  <h3>patched until the dev of cloudscraper unpatches the cloudflare bypass :/</h3>
+
+
 <div align="center">
   <kbd>
   <a href="https://github.com/imvast/OGU-Name-Checker">
-    <img src="https://ogu.gg/images/ogusers/3.png" alt="Logo" width="250" height="150">
+    <img src="https://ogu.gg/images/35.png" alt="Logo" width="250" height="150">
   </a>
   </kbd>
   
@@ -38,9 +41,10 @@
 ---------------------------------------
 
 ### 🚀 Milestones
-* 5 Stars - Faster Speeds
-* 10 Stars - Optimized GoLang Version
-* 20 Stars - Add Generator
+* 20 Stars - Better Checker
+* 50 Stars - Faster Speeds
+* 100 Stars - Optimized GoLang Version
+* 200 Stars - Add Generator
 
 ---------------------------------------
 
@@ -54,8 +58,8 @@
 ### 📜 ChangeLog
 
 ```diff
-v0.0.0 ⋮ 11/15/2022
-- Releasing soon
+v0.0.1 ⋮ 12/03/2022
+! First release (broken tho)
 ```
 
 ---------------------------------------
